@@ -1,0 +1,6 @@
+[submodule "movie-db-react-redux"]
+	path = movie-db-react-redux
+	url = https://github.com/Elmehdi27mi/movie-db-react-redux.git
+[submodule "spring-jwt-authentification"]
+	path = spring-jwt-authentification
+	url = https://github.com/Elmehdi27mi/spring-jwt-authentification.git
